@@ -64,4 +64,89 @@
 ###
 
 <br>
- 
+
+
+
+ <h2 align="center">Featured Projects</h2>
+<br>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Atlas WhatsApp Bot</h3>
+<div align="center">
+<a href="https://github.com/FantoX/Atlas-MD" target="_blank"><img src="https://camo.githubusercontent.com/d9424cd442c3cc000f4a277a63734837143c616388c98946017418d0696b64e6/68747470733a2f2f692e696d6775722e636f6d2f4d436c4f6571652e6a706567" width="400" alt="Atlas MD Logo"></a>
+  <br>
+  <br>
+<p>
+<a href="https://github.com/FantoX/Atlas-MD" target="_blank">
+<img src="https://img.shields.io/badge/Repo-020025?style=for-the-badge&logo=github&logoColor=white">
+</a>
+  
+<!-- <a href="https://marisabrantley.github.io/sticky-notes-app/" target="_blank">
+<img src="https://img.shields.io/badge/-Repo-green?style=for-the-badge&color=d1ed58">
+</a> -->
+</p>
+<p><strong>Atlas</strong> - is a Multi-Device compitable plugin type WhatsApp bot which is built using <strong>Baileys</strong> modifed version and simple JavaScript. It has 20 anime based character themes and 300+ commands with most easy to undersand code. </p>
+</div>
+
+---
+
+                                                                                  
+<h3 align="center">Genius Lyrics Scraper</h3>
+<div align="center">
+<a href="https://github.com/FantoX/lyrics-scraper" target="_blank"><img src="https://routenote.com/blog/wp-content/uploads/2019/12/Genius-lyrics.jpeg" width="400" alt="Guess the Word App"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/FantoX/lyrics-scraper" target="_blank">
+<img src="https://img.shields.io/badge/Repo-020025?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.npmjs.com/package/@fantox01/lyrics-scraper" target="_blank">
+<img src="https://img.shields.io/badge/-NPM Package-green?style=for-the-badge&color=yellow">
+</a>
+</p>
+<p><strong>@fantox01/lyrics-scraper</strong> - is a Scraper NPM Package which scraps genius.com to get lyrics of any song in real time. So you will always get an up-to-date lyrics of any valid song name with proper text formatting ang music album image.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Z-Anime</h3>
+<div align="center">                                       
+<a href="https://github.com/FantoX/Z-Anime" target="_blank"><img src="https://camo.githubusercontent.com/8e0b617865533d69dc8f55fa8d1e966154d6081ac06b5d2b96153e52bf8ab0f3/68747470733a2f2f67726170682e6f72672f66696c652f6630346662366234636434353065616633656336302e6a7067" width="400" alt="Z-Anime logo"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/FantoX/Z-Anime" target="_blank">
+<img src="https://img.shields.io/badge/Repo-020025?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.npmjs.com/package/z-anime" target="_blank">
+<img src="https://img.shields.io/badge/-NPM Website-pink?style=for-the-badge&color=pink">
+</a>
+</p>
+</p><strong>Z-Anime</strong> - is a Scraper NPM Package which scraps <strong>Zoro.to / Sanji.to / Aniwatch.to</strong> in realtime and always provides realtime data. It has 18 different functionalities for 18 different use cases with easy to understand code. </p>
+</div>
+
+---
+
+<h3 align="center">BaileysJS</h3>
+<div align="center">
+<a href="https://github.com/FantoX/BaileysJS" target="_blank"><img src="https://www.trustedreviews.com/wp-content/uploads/sites/54/2017/11/Whatsapp-920x518.jpg" width="400" alt="BaileysJS logo"></a>
+
+<br>
+<br>
+<p>
+<a href="https://github.com/FantoX/BaileysJS" target="_blank">
+<img src="https://img.shields.io/badge/Repo-020025?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.npmjs.com/package/baileysjs" target="_blank">
+<img src="https://img.shields.io/badge/-NPM Package-green?style=for-the-badge&color=green"">
+</a>
+</p><strong>BaileysJS</strong> - is a modded version of @WhiskeySockets/Baileys - v6.2.1 WhatsApp Web API with the fix of "503 - Service Unavailable" issue. It is an unoffitial compiled version of Baileys with all functionalities of offitial version.</p>
+</div>                                                                  
+</table>                                                                                 
+</div>
+<br>
+<hr>                                                                                      
+<br>
+</p>
