@@ -121,7 +121,7 @@
 <img src="https://img.shields.io/badge/Repo-020025?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.npmjs.com/package/z-anime" target="_blank">
-<img src="https://img.shields.io/badge/-NPM Website-pink?style=for-the-badge&color=pink">
+<img src="https://img.shields.io/badge/-NPM Package-pink?style=for-the-badge&color=pink">
 </a>
 </p>
 </p><strong>Z-Anime</strong> - is a Scraper NPM Package which scraps <strong>Zoro.to / Sanji.to / Aniwatch.to</strong> in realtime and always provides realtime data. It has 18 different functionalities for 18 different use cases with easy to understand code. </p>
