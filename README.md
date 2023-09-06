@@ -67,7 +67,7 @@
 
 
 
- <h2 align="center">Featured Projects</h2>
+<h1 align="center">Featured Projects</h1>
 <br>
 <div align="center">
 <table>
