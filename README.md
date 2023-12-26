@@ -1,9 +1,9 @@
 
-<h1 align=center >Hi, I'm Shubha!</h1>
+<h1 align=center >Hi, I'm Kidd Juice😎!</h1>
 
 
 <p align="center">
-<a href="https://github.com/FantoX"><img align="center" src="https://github.com/FantoX/FantoX/assets/143634789/d3e69c71-da8f-4084-ab53-46820bca9772" alt="FantoX" width="600px" />
+<a href="https://github.com/Kiddjuice02"><img align="center" src="https://github.com/Kiddjuice02/Kiddjuice02/assets/143634789/d3e69c71-da8f-4084-ab53-46820bca9772" alt="Kiddjuice02" width="600px" />
 </a>
 </p>
 
@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <h3>I am a Node.js Developer by Passion and a Software Testing Engineer by Proffession. I love Node.js and spend most of the time in making Node.js opensource projects, NPM packages and collaborate in other's projects. If you want me to collaborate in your preject, you can contact me.</h3>
+  <h3>I am a python Developer by Passion and a Software Testing Engineer by Proffession. I love python and spend most of the time in making python opensource projects, NPM packages and collaborate in other's projects. If you want me to collaborate in your preject, you can contact me.</h3>
 </div>
 <br>
 
@@ -19,7 +19,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="mailto: shubhapratimbiswas@gmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/graphicloads/100-flat/256/email-2-icon.png" alt="FantoX email" width="50px" />
+<a href="mailto: seanmandi6@gmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/graphicloads/100-flat/256/email-2-icon.png" alt="Kidd Juice email" width="50px" />
 </a>
 <a href="https://linkedin.com/in/marisabrantley" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marisabrantley" height="30" width="40" /></a>
 </p>
@@ -75,11 +75,11 @@
 <td width="50%">
 <h3 align="center">Atlas WhatsApp Bot</h3>
 <div align="center">
-<a href="https://github.com/FantoX/Atlas-MD" target="_blank"><img src="https://camo.githubusercontent.com/d9424cd442c3cc000f4a277a63734837143c616388c98946017418d0696b64e6/68747470733a2f2f692e696d6775722e636f6d2f4d436c4f6571652e6a706567" width="400" alt="Atlas MD Logo"></a>
+<a href="https://github.com/Kiddjuice02/Atlas-MD" target="_blank"><img src="https://camo.githubusercontent.com/d9424cd442c3cc000f4a277a63734837143c616388c98946017418d0696b64e6/68747470733a2f2f692e696d6775722e636f6d2f4d436c4f6571652e6a706567" width="400" alt="Atlas MD Logo"></a>
   <br>
   <br>
 <p>
-<a href="https://github.com/FantoX/Atlas-MD" target="_blank">
+<a href="https://github.com/Kiddjuice02/Atlas-MD" target="_blank">
 <img src="https://img.shields.io/badge/Repo-020025?style=for-the-badge&logo=github&logoColor=white">
 </a>
   
@@ -95,29 +95,29 @@
                                                                                   
 <h3 align="center">Genius Lyrics Scraper</h3>
 <div align="center">
-<a href="https://github.com/FantoX/lyrics-scraper" target="_blank"><img src="https://routenote.com/blog/wp-content/uploads/2019/12/Genius-lyrics.jpeg" width="400" alt="Guess the Word App"></a>
+<a href="https://github.com/Kiddjuice02/lyrics-scraper" target="_blank"><img src="https://routenote.com/blog/wp-content/uploads/2019/12/Genius-lyrics.jpeg" width="400" alt="Guess the Word App"></a>
 <br>
 <br>
 <p>
-<a href="https://github.com/FantoX/lyrics-scraper" target="_blank">
+<a href="https://github.com/Kiddjuice02/lyrics-scraper" target="_blank">
 <img src="https://img.shields.io/badge/Repo-020025?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.npmjs.com/package/@fantox01/lyrics-scraper" target="_blank">
 <img src="https://img.shields.io/badge/-NPM Package-green?style=for-the-badge&color=yellow">
 </a>
 </p>
-<p><strong>@fantox01/lyrics-scraper</strong> - is a Scraper NPM Package which scraps genius.com to get lyrics of any song in real time. So you will always get an up-to-date lyrics of any valid song name with proper text formatting ang music album image.</p>
+<p><strong>@Kiddjuice02/lyrics-scraper</strong> - is a Scraper NPM Package which scraps genius.com to get lyrics of any song in real time. So you will always get an up-to-date lyrics of any valid song name with proper text formatting ang music album image.</p>
 </div>
 </td>
 
 <td width="50%">
 <h3 align="center">Z-Anime</h3>
 <div align="center">                                       
-<a href="https://github.com/FantoX/Z-Anime" target="_blank"><img src="https://camo.githubusercontent.com/8e0b617865533d69dc8f55fa8d1e966154d6081ac06b5d2b96153e52bf8ab0f3/68747470733a2f2f67726170682e6f72672f66696c652f6630346662366234636434353065616633656336302e6a7067" width="400" alt="Z-Anime logo"></a>
+<a href="https://github.com/Kiddjuice02/Z-Anime" target="_blank"><img src="https://camo.githubusercontent.com/8e0b617865533d69dc8f55fa8d1e966154d6081ac06b5d2b96153e52bf8ab0f3/68747470733a2f2f67726170682e6f72672f66696c652f6630346662366234636434353065616633656336302e6a7067" width="400" alt="Z-Anime logo"></a>
 <br>
 <br>
 <p>
-<a href="https://github.com/FantoX/Z-Anime" target="_blank">
+<a href="https://github.com/Kiddjuice02/Z-Anime" target="_blank">
 <img src="https://img.shields.io/badge/Repo-020025?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.npmjs.com/package/z-anime" target="_blank">
@@ -131,12 +131,12 @@
 
 <h3 align="center">BaileysJS</h3>
 <div align="center">
-<a href="https://github.com/FantoX/BaileysJS" target="_blank"><img src="https://www.trustedreviews.com/wp-content/uploads/sites/54/2017/11/Whatsapp-920x518.jpg" width="400" alt="BaileysJS logo"></a>
+<a href="https://github.com/Kiddjuice02/BaileysJS" target="_blank"><img src="https://www.trustedreviews.com/wp-content/uploads/sites/54/2017/11/Whatsapp-920x518.jpg" width="400" alt="BaileysJS logo"></a>
 
 <br>
 <br>
 <p>
-<a href="https://github.com/FantoX/BaileysJS" target="_blank">
+<a href="https://github.com/Kiddjuice02/BaileysJS" target="_blank">
 <img src="https://img.shields.io/badge/Repo-020025?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.npmjs.com/package/baileysjs" target="_blank">
