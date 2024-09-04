@@ -21,7 +21,7 @@
 <p align="left">
 <a href="mailto: shubhapratimbiswas@gmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/graphicloads/100-flat/256/email-2-icon.png" alt="FantoX email" width="50px" />
 </a>
-<a href="https://linkedin.com/in/marisabrantley" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marisabrantley" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/shubha-pratim-biswas-ab0b55229" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marisabrantley" height="30" width="40" /></a>
 </p>
 <br>
 
