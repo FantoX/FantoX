@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/FantoX">
-    <img src="https://raw.githubusercontent.com/FantoX/FantoX/main/fantox-profile-grid.svg" alt="Profile Grid" width="100%" />
+    <img src="https://raw.githubusercontent.com/FantoX/FantoX/refs/heads/main/fantox-profile-grid.svg" alt="Profile Grid" width="100%" />
   </a>
 </div>
 
