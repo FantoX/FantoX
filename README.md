@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://github.com/FantoX">
+    <img src="https://raw.githubusercontent.com/FantoX/FantoX/main/fantox-profile-grid.svg" alt="Profile Grid" width="100%" />
+  </a>
+</div>
+
+
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I’m Shubha Pratim Biswas</h1>
 <p align="center">
